@@ -1,0 +1,7 @@
+this is version 1 of my code.
+
+I want this to commit 2
+
+changed by nirankar
+
+this is changed now
